@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  char hello[] = "San Diego is cool!"; 
+  char hello[] = "San Diego is cool!!"; 
   char hello2[] = { 72, 101, 108, 108, 111, 33, 0 };
 
   puts(hello);
